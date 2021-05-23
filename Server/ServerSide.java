@@ -1,9 +1,5 @@
 /*
 Phillip Driscoll
-Professor Gyawali
-COSC-4475.501
-2 October 2020
-Assignment #2
 Multithreaded Server-Client program that allows the clients to play a game of
 liars dice against each other (minimum 2 players).
 For more information on how to play liars dice, consult this clip from
